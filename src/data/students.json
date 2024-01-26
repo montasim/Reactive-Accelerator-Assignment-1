@@ -1,0 +1,53 @@
+{
+  "Class 1": [
+    {"ID": "C1S1", "Name": "Alice Johnson", "Scores": {"Math": 85, "Science": 90, "English": 75}, "Percentage": 83.3},
+    {"ID": "C1S2", "Name": "Brian Lee", "Scores": {"Math": 78, "Science": 82, "English": 88}, "Percentage": 82.7},
+    {"ID": "C1S3", "Name": "Charlotte Evans", "Scores": {"Math": 92, "Science": 88, "English": 91}, "Percentage": 90.3},
+    {"ID": "C1S4", "Name": "Dylan Smith", "Scores": {"Math": 74, "Science": 81, "English": 79}, "Percentage": 78.0},
+    {"ID": "C1S5", "Name": "Evelyn Rose", "Scores": {"Math": 88, "Science": 90, "English": 85}, "Percentage": 87.7},
+    {"ID": "C1S6", "Name": "Frank Owen", "Scores": {"Math": 69, "Science": 74, "English": 72}, "Percentage": 71.7},
+    {"ID": "C1S7", "Name": "Grace Turner", "Scores": {"Math": 95, "Science": 92, "English": 93}, "Percentage": 93.3},
+    {"ID": "C1S8", "Name": "Henry White", "Scores": {"Math": 81, "Science": 85, "English": 87}, "Percentage": 84.3},
+    {"ID": "C1S9", "Name": "Isabella Mason", "Scores": {"Math": 78, "Science": 80, "English": 82}, "Percentage": 80.0},
+    {"ID": "C1S10", "Name": "Jack Brown", "Scores": {"Math": 90, "Science": 89, "English": 91}, "Percentage": 90.0},
+    {"ID": "C1S11", "Name": "Kaitlyn Harris", "Scores": {"Math": 85, "Science": 87, "English": 84}, "Percentage": 85.3},
+    {"ID": "C1S12", "Name": "Liam Martin", "Scores": {"Math": 88, "Science": 85, "English": 89}, "Percentage": 87.3},
+    {"ID": "C1S13", "Name": "Mia Walker", "Scores": {"Math": 83, "Science": 81, "English": 85}, "Percentage": 83.0},
+    {"ID": "C1S14", "Name": "Nathan Young", "Scores": {"Math": 76, "Science": 79, "English": 80}, "Percentage": 78.3},
+    {"ID": "C1S15", "Name": "Olivia King", "Scores": {"Math": 92, "Science": 91, "English": 93}, "Percentage": 92.0}
+  ],
+  "Class 2": [
+    {"ID": "C2S1", "Name": "Alice Johnson", "Scores": {"Math": 85, "Science": 90, "English": 75}, "Percentage": 83.3},
+    {"ID": "C2S2", "Name": "Brian Lee", "Scores": {"Math": 78, "Science": 82, "English": 88}, "Percentage": 82.7},
+    {"ID": "C2S3", "Name": "Charlotte Evans", "Scores": {"Math": 92, "Science": 88, "English": 91}, "Percentage": 90.3},
+    {"ID": "C2S4", "Name": "Dylan Smith", "Scores": {"Math": 74, "Science": 81, "English": 79}, "Percentage": 78.0},
+    {"ID": "C2S5", "Name": "Evelyn Rose", "Scores": {"Math": 88, "Science": 90, "English": 85}, "Percentage": 87.7},
+    {"ID": "C2S6", "Name": "Frank Owen", "Scores": {"Math": 69, "Science": 74, "English": 72}, "Percentage": 71.7},
+    {"ID": "C2S7", "Name": "Grace Turner", "Scores": {"Math": 95, "Science": 92, "English": 93}, "Percentage": 93.3},
+    {"ID": "C2S8", "Name": "Henry White", "Scores": {"Math": 81, "Science": 85, "English": 87}, "Percentage": 84.3},
+    {"ID": "C2S9", "Name": "Isabella Mason", "Scores": {"Math": 78, "Science": 80, "English": 82}, "Percentage": 80.0},
+    {"ID": "C2S10", "Name": "Jack Brown", "Scores": {"Math": 90, "Science": 89, "English": 91}, "Percentage": 90.0},
+    {"ID": "C2S11", "Name": "Kaitlyn Harris", "Scores": {"Math": 85, "Science": 87, "English": 84}, "Percentage": 85.3},
+    {"ID": "C2S12", "Name": "Liam Martin", "Scores": {"Math": 88, "Science": 85, "English": 89}, "Percentage": 87.3},
+    {"ID": "C2S13", "Name": "Mia Walker", "Scores": {"Math": 83, "Science": 81, "English": 85}, "Percentage": 83.0},
+    {"ID": "C2S14", "Name": "Nathan Young", "Scores": {"Math": 76, "Science": 79, "English": 80}, "Percentage": 78.3},
+    {"ID": "C2S15", "Name": "Olivia King", "Scores": {"Math": 92, "Science": 91, "English": 93}, "Percentage": 92.0}
+  ],
+  "Class 3": [
+    {"ID": "C3S1", "Name": "Alice Johnson", "Scores": {"Math": 85, "Science": 90, "English": 75}, "Percentage": 83.3},
+    {"ID": "C3S2", "Name": "Brian Lee", "Scores": {"Math": 78, "Science": 82, "English": 88}, "Percentage": 82.7},
+    {"ID": "C3S3", "Name": "Charlotte Evans", "Scores": {"Math": 92, "Science": 88, "English": 91}, "Percentage": 90.3},
+    {"ID": "C3S4", "Name": "Dylan Smith", "Scores": {"Math": 74, "Science": 81, "English": 79}, "Percentage": 78.0},
+    {"ID": "C3S5", "Name": "Evelyn Rose", "Scores": {"Math": 88, "Science": 90, "English": 85}, "Percentage": 87.7},
+    {"ID": "C3S6", "Name": "Frank Owen", "Scores": {"Math": 69, "Science": 74, "English": 72}, "Percentage": 71.7},
+    {"ID": "C3S7", "Name": "Grace Turner", "Scores": {"Math": 95, "Science": 92, "English": 93}, "Percentage": 93.3},
+    {"ID": "C3S8", "Name": "Henry White", "Scores": {"Math": 81, "Science": 85, "English": 87}, "Percentage": 84.3},
+    {"ID": "C3S9", "Name": "Isabella Mason", "Scores": {"Math": 78, "Science": 80, "English": 82}, "Percentage": 80.0},
+    {"ID": "C3S10", "Name": "Jack Brown", "Scores": {"Math": 90, "Science": 89, "English": 91}, "Percentage": 90.0},
+    {"ID": "C3S11", "Name": "Kaitlyn Harris", "Scores": {"Math": 85, "Science": 87, "English": 84}, "Percentage": 85.3},
+    {"ID": "C3S12", "Name": "Liam Martin", "Scores": {"Math": 88, "Science": 85, "English": 89}, "Percentage": 87.3},
+    {"ID": "C3S13", "Name": "Mia Walker", "Scores": {"Math": 83, "Science": 81, "English": 85}, "Percentage": 83.0},
+    {"ID": "C3S14", "Name": "Nathan Young", "Scores": {"Math": 76, "Science": 79, "English": 80}, "Percentage": 78.3},
+    {"ID": "C3S15", "Name": "Olivia King", "Scores": {"Math": 92, "Science": 91, "English": 93}, "Percentage": 92.0}
+  ]
+}
